@@ -28,9 +28,7 @@ class reverse{
             rev[m-1]=temp[i]; 
             m=m-1; 
         } 
-        /*for (int k = 0; k < j; k++) { 
-            System.out.println(rev[k]); 
-        } */
+      
 
         int s=0;
 
